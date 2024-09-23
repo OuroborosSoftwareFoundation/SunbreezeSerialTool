@@ -1,0 +1,3 @@
+﻿Module mdl
+    Public upd As String = vbNullString
+End Module

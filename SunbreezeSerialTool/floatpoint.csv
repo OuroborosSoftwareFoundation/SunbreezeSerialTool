@@ -1,0 +1,13 @@
+FpName,Length,Exponent
+IEEE-FP32,32,8
+IEEE-FP64,64,11
+FP8,8,3
+IEEE-FP16,16,5
+CFloat8_1_4_3,8,4
+CFloat8_1_5_2,8,5
+bfloat16-BF16,16,8
+NVIDIA-TF32,19,8
+Enflame-EF32,20,8
+AMD-FP24,24,7
+Pixar-PXR24,24,8
+KNX_Float16,16,4
